@@ -50,7 +50,8 @@ Sinta-se livre para usar JavaScript Puro(Vanilla JS) ou React, e use o preview a
 ## 🕒 Tempo sugerido
 
 - 1 Semana.
-- Entrega via link para repositório (GitHub).
+- A entrega deve ser feita via link para o repositório (GitHub) contendo o projeto.
+- Após finalizar, envie o link através do formulário disponível em: 👉 https://forms.gle/ uz1xgUa6Nx4RkAKU6
 
 ---
 
