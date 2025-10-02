@@ -18,7 +18,7 @@ Sinta-se livre para usar JavaScript Puro(Vanilla JS) ou React, e use o preview a
 
 2. **Renderizar os produtos na tela**
 
-   - Exibir um card do produto com imagem, nome, preço e botão “Adicionar ao carrinho”.
+   - Exibir um card para cada produto com imagem, nome, preço e botão “Adicionar ao carrinho”.
 
 3. **Implementar o carrinho de compras**
 
