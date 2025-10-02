@@ -47,11 +47,11 @@ Sinta-se livre para usar JavaScript Puro(Vanilla JS) ou React, e use o preview a
 
 ---
 
-## 🕒 Tempo sugerido
+## 🕒 Prazo da entrega
 
-- 1 Semana.
+- 1 Semana para realização do desafio.
 - A entrega deve ser feita via link para o repositório (GitHub) contendo o projeto.
-- Após finalizar, envie o link através do formulário disponível em: 👉 https://forms.gle/ uz1xgUa6Nx4RkAKU6
+- Após finalizar, envie o link através do formulário disponível em: 👉 https://forms.gle/uz1xgUa6Nx4RkAKU6
 
 ---
 
